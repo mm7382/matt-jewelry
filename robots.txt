@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mm7382.github.io/matt-jewelry/sitemap.xml
